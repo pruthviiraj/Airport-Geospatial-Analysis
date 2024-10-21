@@ -1,4 +1,4 @@
-# Analyzing a Geospatial Airport Database using PostgreSQL and PostGIS extension
+# Analyzing a Geospatial Airport Database using PostgreSQL and PostGIS
 
 # Project Description:
 
